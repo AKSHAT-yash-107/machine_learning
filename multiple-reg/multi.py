@@ -101,5 +101,6 @@ ax.set_xlabel("X1")
 ax.set_ylabel("X2")
 ax.set_zlabel("Y")
 ax.set_title("Multiple Linear Regression (3D Plot)")
+plt.savefig("graph.eps", format="eps")
 
 plt.show()

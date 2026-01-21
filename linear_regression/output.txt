@@ -1,0 +1,4 @@
+Training Complete
+Slope (m): 0.6176946148762643
+Intercept (c): 2.136116825825789
+Prediction for x=6: 5.842284515083374
