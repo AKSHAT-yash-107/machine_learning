@@ -1,0 +1,20 @@
+
+--- Multiple Linear Regression ---
+R2 Score: 0.30225022306920224
+MSE: 10.442957501781487
+
+--- KNN Regression ---
+R2 Score: 0.006878247325923459
+MSE: 14.863678356000001
+
+--- Logistic Regression Classification ---
+Accuracy: 0.876
+
+--- Naive Bayes Classification ---
+Accuracy: 0.93
+
+--- KNN Classification ---
+Accuracy: 0.792
+
+--- Decision Tree Classification ---
+Accuracy: 1.0
