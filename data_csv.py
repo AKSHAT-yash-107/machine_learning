@@ -1,5 +1,3 @@
-import csv;
-
 # Create CSV file with header
 with open("data.csv", "w", newline="") as file:
     writer = csv.writer(file)
