@@ -18,7 +18,7 @@ Implementation of the K-Means clustering algorithm in Python without using sklea
 
 ## Example Output
 
-![Clustering Result](Figure_1.png)
+(Figure_1.png)
 
 ## Run
 
